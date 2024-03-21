@@ -19,6 +19,6 @@ Here are a few projects I've worked on:
 ## Get in Touch
 
 - LinkedIn: [Itumeleng Molotsi](https://www.linkedin.com/in/itumeleng-molotsi)
-- Email: [itumelengmmolotsi1@gmail.com]
+- Email: itumelengmmolotsi1@gmail.com
 
 Let's connect and collaborate on exciting data-driven projects together!
