@@ -12,7 +12,7 @@
 
 Here are a few projects I've worked on:
 
-- **Marketing Campaign Analysis**: Used Looker StudioI to visualise customer data and identify key segments for targeted marketing initiatives.
+- **Marketing Campaign Analysis**: Used Looker Studio to visualise customer data and identify key segments for targeted marketing initiatives.
 - **Customer Personality Analysis**: Conducted a comprehensive consumer personality analysis using SQLto gain deep insights into customer preferences and behaviours and created a dashboard with Power BI.
 - **Sales Forecasting**: Leveraged Excel and statistical modeling techniques to forecast sales trends and inform business planning.
 
